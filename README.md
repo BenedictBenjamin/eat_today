@@ -14,10 +14,10 @@
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 인원 및 파트담당 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"></li><span style="font-size: 20px">최배근 / 팀장</span><br /></li></li>깃허브 관리 및  총 프로젝트 기획 관리<br />파트: 메인 페이지, 북마크 페이지, 검색, 인트로<br /></li>
-    </li><span style="font-size: 20px">송가람 / 팀원</span><br /></li></li>피그마 기획 이미지 출력 담당<br />파트: 등록 페이지, 수정 페이지, 피그마<br /></li>
-    </li><span style="font-size: 20px">박소연 / 팀원</span><br /></li></li>기획문서 제작 및 정리<br />파트: 상세 페이지 및 멤버 페이지, 피그마<br /></li>
-    </li><span style="font-size: 20px">김경민 / 총괄팀장</span><br /></li></li>소통 및 노션에 진행 상태정리<br />파트: 로그인 페이지, 메인 서브 페이지<br /></li>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"></li><span style="font-size: 22px">최배근 / 팀장</span><br /></li></li>- 깃허브 관리 및  총 프로젝트 기획 관리<br />- 파트: 메인 페이지, 북마크 페이지, 검색, 인트로<br /></li>
+    </li><span style="font-size: 22px">송가람 / 팀원</span><br /></li></li>- 피그마 기획 이미지 출력 담당<br />- 파트: 등록 페이지, 수정 페이지, 피그마<br /></li>
+    </li><span style="font-size: 22px">박소연 / 팀원</span><br /></li></li>- 기획문서 제작 및 정리<br />- 파트: 상세 페이지 및 멤버 페이지, 피그마<br /></li>
+    </li><span style="font-size: 22px">김경민 / 총괄팀장</span><br /></li></li>- 소통 및 노션에 진행 상태정리<br />- 파트: 로그인 페이지, 메인 서브 페이지<br /></li>
     </div> 
 </div>
 
