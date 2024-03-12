@@ -1,8 +1,7 @@
-# First - Project 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오늘 뭐 해 먹지? </h2>  <img src="public/images/main_logo.svg"/>
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 앱 소개: "오늘 뭐 해 먹지? </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 앱 소개</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"></li>나만의 레시피 일지를 보관하는 어플입니다.<br /><br /></li></li>레시피 기록: 매일 새로운 레시피를 시도하고 그 경험을 기록하세요. 요리의 성공과 실패, 새롭게 시도한 요리의 맛, 모든 것을 자유롭게 기록해 보세요.<br /></li></li>사진 첨부: 맛있는 음식을 만들었다면, 그 순간을 사진으로 남겨 자신만의 요리 레시피를 만들어 보세요.<br/><br/></li></li>저희의 앱은 일상 속 주부 및 자취생들을 타깃으로 오늘 뭐 해 먹지 나만의 레시피 기록일지를 통해 내가 만든 음식들의 목록을 직관적으로 더 쉽게 어디에서든 볼 수 있게 만든 어플입니다.</li> </div> 
 </div>
 
