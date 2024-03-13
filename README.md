@@ -42,6 +42,11 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 노션 및 링크 주소</h2> <br> 
     <div style="text-align: left;"> <a href="https://fragrant-carob-a6a.notion.site/1-ae43c6d4c8b54fff8a1460156e5d1737?pvs=4"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://fragrant-carob-a6a.notion.site/1-ae43c6d4c8b54fff8a1460156e5d1737?pvs=4"> </a>
       </div> 
-    <div style="text-align: left;"> <a href="https://github.com/devstrcat/eat_today"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon0504%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
+
+  <div style="text-align: left; "> 
+    <img src="https://avatars.githubusercontent.com/u/148067779?s=400&u=a7f723bb2c78030aef6965b23c5ce6340e799191&v=4" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/148197786?v=4" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/148197702?v=4" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/148197339?s=64&v=4" width="150" height="150"/>
+
+최배근[@devstrcat](https://github.com/devstrcat) 박소연[@soyeon0504](https://github.com/soyeon0504) 김시우[@BenedictBenjamin](https://github.com/BenedictBenjamin) 송가람[@songganam](https://github.com/songganam)
+
+</div> 
+
